@@ -1,0 +1,21 @@
+
+
+.section{ font-weight:bold ;
+color: #FBEAE7;
+font-size: larger;
+font-family: cursive;
+background-color: rgb(85,38,25) ;}
+
+.subsection{ font-weight: bolder;
+color:#552619 ;
+font-size: small;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color:rgb(178,69,110) ;}
+
+.paragraph{font-weight:bold ;
+color:#B2456E ;
+font-size: medium;
+font-family:Verdana, Geneva, Tahoma, sans-serif ;
+background-color:rgb(251,234,231)}
+
+#Chocolate{text-align: center;}
