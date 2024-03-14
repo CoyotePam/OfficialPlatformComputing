@@ -29,7 +29,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/pam/Desktop/Assignment_2_user_Interactions/Metric_tracker/.venv"
+set -gx VIRTUAL_ENV "/Users/pam/Desktop/GitHub/OfficialPlatformComputing/Assignment_2_user_Interactions/Metric_tracker/.venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

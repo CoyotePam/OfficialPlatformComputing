@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/pam/Desktop/Assignment_2_user_Interactions/Metric_tracker/.venv"
+VIRTUAL_ENV="/Users/pam/Desktop/GitHub/OfficialPlatformComputing/Assignment_2_user_Interactions/Metric_tracker/.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
