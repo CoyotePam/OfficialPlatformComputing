@@ -12,7 +12,8 @@ the webpage (2 pts)
 - [x ] Modify your metric_tracker file so that the metrics are saved onto a database
 (5 pts)
 The following **bonus** features are implemented:
-- [ ] Retrieve values from the database (1 pt).
-- [ ] Create separate Tables (SQL) or Documents (NoSQL) for each metric and relate
+(I think I did this as well, but Im not sure)
+- [ x] Retrieve values from the database (1 pt).
+- [ x] Create separate Tables (SQL) or Documents (NoSQL) for each metric and relate
 them via user (2 pt).
 - [ ] DESCRIBE ANY OTHER FEATURES HERE.
