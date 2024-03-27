@@ -1,0 +1,1 @@
+{"version":3,"sources":["scripts/index.js"],"names":["console","log"],"mappings":";AAAAA,QAAQC,IAAI","file":"scripts.51c8cc86.js","sourceRoot":"../src","sourcesContent":["console.log(\"Welcome to a Snapshot of Me\");"]}
